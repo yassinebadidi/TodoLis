@@ -1,0 +1,41 @@
+{
+  "tasks" : [
+    {
+      "id" : 1,
+      "title" : "Mettre en place une architecture modulaire ES6",
+    },
+    {
+      "id" : 2,
+      "title" : "Mettre en place un fichier service.mjs contenant un CRUD sur un tableau de tâches"
+    },
+    {
+      "id" : 3,
+      "title" : "Récupérez les tâches grâce au service et affichez les"
+    },
+    {
+      "id" : 4,
+      "title" : "Une fois les tâches affichées, implémentez la suppression d'une tâche"
+    },
+    {
+      "id" : 5,
+      "title" : "Récupérez les tâches grâce au service et affichez les"
+    },
+    {
+      "id" : 6,
+      "title" : "Récupérez les tâches grâce au service et affichez les"
+    },
+    {
+      "id" : 7,
+      "title" : "Récupérez les tâches grâce au service et affichez les"
+    },
+    {
+      "id" : 8,
+      "title" : "Récupérez les tâches grâce au service et affichez les"
+    },
+    {
+      "id" : 9,
+      "title" : "Récupérez les tâches grâce au service et affichez les"
+    }
+
+  ]
+}
